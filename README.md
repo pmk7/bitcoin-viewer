@@ -16,13 +16,9 @@ This project is a Bitcoin blockchain viewer application. It connects to the Bitc
 
 ## Requirements
 - Python 3.6 or higher
-- Dependencies specified in `requirements.txt`
 
 ## Installation
-1. Install dependencies:
-   `pip install -r requirements.txt`
-
-2. Run program
+1. Run program
    `python3 main.py`
 
 ## Files
